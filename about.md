@@ -13,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[2001reyesaaaron@gmail.com](mailto:email@domain.com)
+[2001reyesaaaron@gmail.com](mailto:2001reyesaaron@gmail.com)
