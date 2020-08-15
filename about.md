@@ -11,6 +11,6 @@ Entre mis hobbies estan la musica la informatica y el cubo rubik que entrelaza e
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### E-mail
 
 [2001reyesaaaron@gmail.com](mailto:2001reyesaaron@gmail.com)
