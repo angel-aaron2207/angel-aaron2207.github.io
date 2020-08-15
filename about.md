@@ -19,6 +19,9 @@ en la Universidad UG.
 1)
 La ingieneria de sofwtware s una de las ramas de las ciencias de la computación que estudia la creación de software confiable y de calidad, basándose en métodos y técnicas de ingeniería. Brindando soporte operacional y de mantenimiento, el campo de estudio de la ingeniería de software.Integra ciencias de la computación, ciencias aplicadas y las ciencias básicas en las cuales se encuentra apoyada la ingeniería.
 
+2)
+La programacion es el proceso utilizado para idear y ordenar las acciones necesarias para realizar un proyecto, preparar ciertas máquinas o aparatos para que empiecen a funcionar en el momento y en la forma deseados o elaborar programas para su empleo en computadoras.
+En la actualidad, la noción de programación se encuentra muy asociada a la creación de aplicaciones informática y videojuegos. Es el proceso por el cual una persona desarrolla un programa valiéndose de una herramienta que le permita escribir el código (el cual puede estar en uno o varios lenguajes, como C++, Java y Python, entre otros) y de otra que sea capaz de “traducirlo” a lo que se conoce como lenguaje de máquina, que puede comprender el microprocesador.
 ### E-mail
 
 [2001reyesaaaron@gmail.com](mailto:2001reyesaaron@gmail.com)
