@@ -12,7 +12,7 @@ Entre mis hobbies estan la musica la informatica y el cubo rubik que entrelaza e
 En el ambito Academico estudi en la Escula #82 Ignacio Molina Andrade despues me fui al colegio
 Provincia de los Rios que ahora es la Unidad Educativa Provincia de los Rios, en el bachillerato
 me fui por la carrera de contabilidad pero me fije que eso no era para mi y decidi estudia Software 
-en la Universidad UG.
+en la Universidad Guayaquil.
 
 ### Temas de interes
 
