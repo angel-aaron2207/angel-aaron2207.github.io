@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca De
+title: Biografia
 permalink: /about/
 ---
 ### Biografia
