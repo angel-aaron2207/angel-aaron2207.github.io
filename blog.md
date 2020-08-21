@@ -1,6 +1,7 @@
 ---
 layout: page
-title: biografia
+title: Datos de interes
+
 permalink: /blog/
 ---
 ### Temas de interes
