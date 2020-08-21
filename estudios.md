@@ -1,7 +1,7 @@
 ---
-layout:blog
+layout:page
 title:Estudios
-permalink:/estudios/
+permalink:/about/
 ---
 ###Estudios
 
