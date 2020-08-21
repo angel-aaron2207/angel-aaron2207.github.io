@@ -4,8 +4,7 @@ title: Acerca De
 permalink: /about/
 ---
 ### Biografia
-Naci el 22 de julio del 2001 tuve una infacia y adolencencia muy buena en lo que se puede decir.
-Entre mis hobbies estan la musica la informatica y el cubo rubik que entrelaza el speedcubing
+Naci el 22/07/2001 tuve una muy buena infacia y adolescencia en lo que puedo decir sobre mi tengo varios hobbies entre ellos son la musica el cubo rubik con el va entrelazado el speedcubing, entre mis intereses profesionales me empezo a gutar la programacion y el software a muy temprana edad incluso sin darme cuenta me apasionaba en ese entonces y ahora la tecnologia en general pero elegui el software por que la programacion es de los pocos lugares donde se puede crear algo desde cero y aspiro llegar a ser alguien que pueda revolucionar el mundo del software.
 
 ### Estudios
 
