@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: articulo
+title: Datos de interes
 ---
 ### Temas de interes 
 1)
